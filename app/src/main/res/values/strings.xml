@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="start">START</string>
+    <string name="score">0:0</string>
+    <string name="first">first player</string>
+    <string name="second">second player</string>
+    <string name="winner">who wins</string>
+    <string name="win_btn">RESTART</string>
+</resources>
